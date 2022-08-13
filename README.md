@@ -28,8 +28,8 @@ Basic understanding of Machine Learning
 
 Familiarity with differential equations
 
-#Mentor Contact
+# Mentor Contact
 [Rajvi Sampat](https://github.com/rajvi-git) ([2018B4A70820G](mailto:f20180820@goa.bits-pilani.ac.in))
 
-#Faculty Supervisor
+# Faculty Supervisor
 Dr. Snehanshu Saha
