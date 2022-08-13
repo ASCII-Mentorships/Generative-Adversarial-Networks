@@ -9,6 +9,7 @@ The adversarial training between the generator and discriminator can be formulat
 # Project Structure
 ## Week 1, 2 
 Understanding the architecture of Generative Adversarial Networks, and viewing the adversarial training as a two-player game.
+
 Implementing GANs for a simple regression or generative task to develop a clear understanding of GANs
 
 ## Week 3, 4
@@ -19,10 +20,12 @@ Introducing a skip-GAN which adds another model to process the data prior to the
 
 ## Week 7 - 12
 Studying the model dynamics with different prior models and variations in the architecture.
+
 Improving the stability of the architecture by incorporating these findings. 
 
 # Prerequisites
 Basic understanding of Machine Learning
+
 Familiarity with differential equations
 
  
