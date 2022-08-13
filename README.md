@@ -27,3 +27,9 @@ Improving the stability of the architecture by incorporating these findings.
 Basic understanding of Machine Learning
 
 Familiarity with differential equations
+
+#Mentor Contact
+[Rajvi Sampat](https://github.com/rajvi-git) ([2018B4A70820G](mailto:f20180820@goa.bits-pilani.ac.in))
+
+#Faculty Supervisor
+Dr. Snehanshu Saha
