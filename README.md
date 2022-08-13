@@ -20,8 +20,10 @@ Introducing a skip-GAN which adds another model to process the data prior to the
 
 ## Week 7 - 12
 Studying the model dynamics with different prior models and variations in the architecture.
+
 Improving the stability of the architecture by incorporating these findings. 
 
 # Prerequisites
 Basic understanding of Machine Learning
+
 Familiarity with differential equations
