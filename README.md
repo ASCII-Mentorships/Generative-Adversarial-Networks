@@ -30,6 +30,7 @@ Familiarity with differential equations
 
 # Mentor Contact
 [Rajvi Sampat](https://github.com/rajvi-git) ([2018B4A70820G](mailto:f20180820@goa.bits-pilani.ac.in))
+[Pronoma Banerjee](https://github.com/pronoma) ([2019B4A70690G](mailto:f20190690@goa.bits-pilani.ac.in))
 
 # Faculty Supervisor
 [Dr. Snehanshu Saha](https://www.bits-pilani.ac.in/goa/snehanshus/profile)
